@@ -6,7 +6,7 @@ Oxygen consumption rate, or VO2, estimates the body’s ability to use oxygen du
 This repo contains: 
 
 * 20220412_bme580project.Rmd - Code 
-* png files - Visualization outputs from Rmd files 
+* png files - Visualization outputs from Rmd file
 * classification_pipeline.py file - Entire classification pipeline from preprocessed scaled data to classification model evaluation and figure output
 
 ### Built With
